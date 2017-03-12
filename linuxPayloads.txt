@@ -1,0 +1,5 @@
+/etc/passwd
+/etc/group
+/home/
+/var/
+/tmp/
