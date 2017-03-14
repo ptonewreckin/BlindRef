@@ -5,7 +5,7 @@ BlindRef serves as the basis for an automated Blind-Based XXE Exploitation Frame
 
 BlindRef_Attacker.py -s serverURL -p serverPort -r webRequest
 
-**How to use**
+**How to use:**
 
 This framework does not currently detect XXE vulnerabilities on its own. BlindRef is designed to be used after successfully discovering the vulnerability within an application.
 
